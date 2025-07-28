@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'roya';
+    src: url(../fonts/B\ Roya\ Bold_0.ttf);
+}
+
+body{
+    font-family: 'roya' !important;
+}
+
+.icon {
+    color: #0d6efd;
+    background: #ebeafb;
+    display: inline-flex;
+    padding: 0.875rem;
+    border-radius: 0.875rem;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.bg-card {
+    background: #1b2a4e;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: black;
+}
